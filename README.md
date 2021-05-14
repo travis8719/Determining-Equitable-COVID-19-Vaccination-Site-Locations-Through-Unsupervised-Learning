@@ -28,4 +28,5 @@ Execution and Interpretation:
 *   Create web app framework for user interaction.
 
 <img src="https://github.com/travis8719/Determining-Equitable-COVID-19-Vaccination-Site-Locations-Through-Unsupervised-Learning/blob/main/Phase3/webapp.png"/>
+
 ### Check out my [Capstone Project Site](https://sites.google.com/umbc.edu/data606/spring-21-section-2/travis-twigg) for additonal details.
