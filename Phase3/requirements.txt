@@ -17,4 +17,3 @@ jenkspy==0.1.4
 geopy==2.1.0
 scipy==1.4.1
 haversine==2.3.0
-libspatialindex=1.9.3=h0a44026_0
