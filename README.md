@@ -32,7 +32,7 @@ Execution and Interpretation:
 <img src="https://github.com/travis8719/Determining-Equitable-COVID-19-Vaccination-Site-Locations-Through-Unsupervised-Learning/blob/main/Phase3/webapp.png"/>
 
 ## To Use:
-*   Create new virtual environment. For conda users: `conda create -n streamlit_env python=3.7.6 anaconda`
+*   Create new virtual environment: `conda create -n streamlit_env python=3.7.6 anaconda`
 *   Activate your new virtual environment: `conda activate streamlit_env`
 *   Navigate to where you want to clone repo.
 *   Clone repo: git clone `https://github.com/travis8719/Determining-Equitable-COVID-19-Vaccination-Site-Locations-Through-Unsupervised-Learning.git`
