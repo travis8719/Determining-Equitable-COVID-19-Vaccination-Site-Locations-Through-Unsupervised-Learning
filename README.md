@@ -31,4 +31,8 @@ Execution and Interpretation:
 ## Streamlit Web App
 <img src="https://github.com/travis8719/Determining-Equitable-COVID-19-Vaccination-Site-Locations-Through-Unsupervised-Learning/blob/main/Phase3/webapp.png"/>
 
+## To Use:
+*   Create new virtual environment `conda create --n <env_name> --file requirements.txt`
+
+
 ### Check out my [Capstone Project Site](https://sites.google.com/umbc.edu/data606/spring-21-section-2/travis-twigg) for additonal details.
