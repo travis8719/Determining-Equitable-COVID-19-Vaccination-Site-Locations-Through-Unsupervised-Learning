@@ -37,6 +37,8 @@ Execution and Interpretation:
 *   Navigate to where you want to clone repo.
 *   Clone repo: git clone `https://github.com/travis8719/Determining-Equitable-COVID-19-Vaccination-Site-Locations-Through-Unsupervised-Learning.git`
 *   Install packages needed for the project: `pip install -r requirements.txt`
+*   Run python file: `python3 streamlit_find_vaccine_sites.py`
+*   To view locally in the browser: `streamlit run streamlit_find_vaccine_sites.py`
 
 
 ### Check out my [Capstone Project Site](https://sites.google.com/umbc.edu/data606/spring-21-section-2/travis-twigg) for additonal details.
