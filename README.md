@@ -32,7 +32,11 @@ Execution and Interpretation:
 <img src="https://github.com/travis8719/Determining-Equitable-COVID-19-Vaccination-Site-Locations-Through-Unsupervised-Learning/blob/main/Phase3/webapp.png"/>
 
 ## To Use:
-*   Create new virtual environment `conda create --n <env_name> --file requirements.txt`
+*   Create new virtual environment. For conda users: `conda create -n streamlit_env python=3.7.6 anaconda`
+*   Activate your new virtual environment: `conda activate streamlit_env`
+*   Navigate to where you want to clone repo.
+*   Clone repo: git clone `https://github.com/travis8719/Determining-Equitable-COVID-19-Vaccination-Site-Locations-Through-Unsupervised-Learning.git`
+*   Install packages needed for the project: `pip install -r requirements.txt`
 
 
 ### Check out my [Capstone Project Site](https://sites.google.com/umbc.edu/data606/spring-21-section-2/travis-twigg) for additonal details.
